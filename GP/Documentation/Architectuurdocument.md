@@ -77,7 +77,8 @@ Overzicht bestellingen pagina
 
 **optie 1**
 
-![](RackMultipart20220531-1-d4herd_html_53c9af4f61474a.png)
+![Wireframe1](https://user-images.githubusercontent.com/71487939/171139796-cb7d81eb-e207-46d3-b8d6-c9f8a1cd90af.PNG)
+
 
 **optie 2**
 
