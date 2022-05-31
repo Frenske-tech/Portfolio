@@ -112,7 +112,7 @@ Kanban en Lean werken niet in sprints maar met continue verbetering waarbij op e
 
 Bron: &#39;Agile Onderzoek&#39; hoofdstuk &#39;Welke Agile methode is geschikt voor het project?&#39; op pagina 20.
 
-![](RackMultipart20220531-1-tyrxgh_html_61a74a25210c9018.png)
+![Scrum](https://user-images.githubusercontent.com/71487939/171167406-58c4cd1a-5ed1-4272-907a-40ab3574cda9.png)
 
 # 1
 
