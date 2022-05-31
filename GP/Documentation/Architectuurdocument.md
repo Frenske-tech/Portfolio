@@ -25,7 +25,8 @@ Inhoud
 
 C1
 
-![](RackMultipart20220531-1-d4herd_html_3f3644ab9a00fff2.png)
+
+![fooddies lvl 1](https://user-images.githubusercontent.com/71487939/171140200-1cac9646-8374-49a9-8690-f481aea20e95.png)
 
 **deze spreekt eigenlijk voor zich klant maakt gebruik van de applicatie en dan krijgt de restaurant applicatie binnen**
 
