@@ -91,6 +91,6 @@ Overzicht bestellingen pagina
 
 **de resultaten van het onderzoek**
 
-![](RackMultipart20220531-1-d4herd_html_8322262182ff0fec.png)
+![UiOnderzoek](https://user-images.githubusercontent.com/71487939/171142578-2d10a66b-05d4-4632-828c-0e0803a27092.PNG)
 
 Er zijn nog 2 reacties gegeven buiten de google forms en die gingen beide ook voor optie 3
