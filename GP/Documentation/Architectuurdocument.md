@@ -32,7 +32,7 @@ C1
 
 C2:
 
-![](RackMultipart20220531-1-d4herd_html_a963504224384265.png)
+![fooddies lvl 2](https://user-images.githubusercontent.com/71487939/171140309-add5a600-3902-4665-b700-af6403327f37.png)
 
 **Op dit c4 hebben we veel feedback gekregen onder andere om verschillende dingen aan te passen zoals de single page application etc. maar hier was de bedoeling weer te geven dat de administrators een aparte app hebben het keuken en barpersoneel ook een andere app, en de klant kan bestellingen aanmaken met de app voor hen.**
 
