@@ -44,13 +44,13 @@ C2:
 
 Versie 1
 
-![](RackMultipart20220531-1-d4herd_html_cbd284de085586a9.png)
+![PBS-versie1 drawio](https://user-images.githubusercontent.com/71487939/171140791-ea56e914-8b56-4b7c-ac2a-f789e1b8fdb1.png)
 
 **Hier nog alle applicaties en de functionaliteiten op een rijtje, hier hadden we feedback op gekregen om het veel kleiner te maken en dat is ook gebeurd in de 2de versie.**
 
 Versie 2
 
-![](RackMultipart20220531-1-d4herd_html_409732f17c561a17.png)
+![PBS-versie2 drawio (1)](https://user-images.githubusercontent.com/71487939/171140824-463f10b9-5ea1-4ecf-8dde-690dd31007da.png)
 
 **hier hebben we het opgedeeld in software en documentatie en waar we aan gingen werken in beide**
 
