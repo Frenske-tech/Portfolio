@@ -36,7 +36,7 @@ C2:
 
 **Op dit c4 hebben we veel feedback gekregen onder andere om verschillende dingen aan te passen zoals de single page application etc. maar hier was de bedoeling weer te geven dat de administrators een aparte app hebben het keuken en barpersoneel ook een andere app, en de klant kan bestellingen aanmaken met de app voor hen.**
 
-![](RackMultipart20220531-1-d4herd_html_fe2988dd5fe7bafc.png)
+![v2 - Architectuur](https://user-images.githubusercontent.com/71487939/171140605-e438f971-022c-411d-8eff-b339711a0355.png)
 
 **dit is een kleine schets voor de duidelijkheid tussen de verschillende applicatie in verbinding met de admin applicatie**
 
