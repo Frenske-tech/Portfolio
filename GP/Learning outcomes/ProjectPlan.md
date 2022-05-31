@@ -23,14 +23,7 @@
  |
 | V5 | 30-05-2022 | Francois Haan | Commentaar toegevoegd | afgerond |
 
-**Dist**** ributie**
 
-| **Versie** | **Datum** | **Ontvangers** |
-| --- | --- | --- |
-|
- |
- |
- |
 
 **// binnen dit project hebben we natuurlijk alles samen besproken en elkaar geholpen met teksten bedenken etc ik zal meer zetten bij dingen waar ik specifiek aan mee heb gewerkt.**
 
