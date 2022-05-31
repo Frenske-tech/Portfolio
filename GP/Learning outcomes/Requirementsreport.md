@@ -38,14 +38,14 @@ some of the user stories i worked on,
 
 here for each user story we have acceptance criteria which is a requirement within the user story
 
-![](RackMultipart20220531-1-3igiqc_html_5f2c1399266cfa9f.png)
+![userstory1](https://user-images.githubusercontent.com/71487939/171164706-b3af5835-8eb0-4aa6-b8a6-249948edef39.png)
 
-![](RackMultipart20220531-1-3igiqc_html_7c19ec53e883b193.png)
+![userstory2](https://user-images.githubusercontent.com/71487939/171164713-dca0d48d-e53f-47ae-ae08-dc328a26af63.png)
 
-![](RackMultipart20220531-1-3igiqc_html_fc9d91027dadde79.png)
+![userstory3](https://user-images.githubusercontent.com/71487939/171164719-45565066-5295-43ec-b03f-eb9058601265.png)
 
 this was mostly concerning the current order page kind of like a shopping cart page, within these user stories we made a lot of tasks and attached estimated hours and actual hours to it. In order to keep track of our progress.
 
-![](RackMultipart20220531-1-3igiqc_html_98fcabebfb34bd02.png)
+![task1](https://user-images.githubusercontent.com/71487939/171164723-b7c0c54a-de32-4b72-a3cb-e961e06e8421.png)
 
 this is an example of the added tasks behind the user stories obviously there&#39;s a lot of them
