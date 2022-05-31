@@ -2,7 +2,7 @@
 
 _Onderzoek S3 GP_
 
-![](RackMultipart20220531-1-u4txj3_html_fda25986679abf72.png)
+![agile1](https://user-images.githubusercontent.com/71487939/171170551-2a00da56-dc5b-438f-ba41-d73ad6c4f96e.png)
 
 **Justin van de Laar, Julian Janssen, Thisoban Mahalingam, Francois Haan, Bas Onrust, David Hellinga**
 
@@ -66,7 +66,7 @@ _Thisoban Mahalingam_
 
 Agile betekent om in een bepaalde tijd samen in een team in stages te gaan werken. Om ervoor te te zorgen dat je samen in een sprint met de klant communiceert en een milestone oplevert. Het testen en parallel en gesynchroniseerd samen in een team in een sprint om een bepaalde milestone te testen en te ontwikkelen.
 
-![](RackMultipart20220531-1-u4txj3_html_72e22769665f9057.png)
+![agile2](https://user-images.githubusercontent.com/71487939/171170548-910066f9-9f13-4308-95fc-bd7870e126be.png)
 
 Principe van de agile methodes zijn:
 
@@ -91,7 +91,7 @@ Er zijn veel verschillende Agile methodes maar een kleine groep daarvan wordt do
 # 2
  gebruikt ~93% van teams een mix van Scrum, Kanban, Extreme Programming (XP) en Lean. Scrum is duidelijk de meest dominante met 66% puur Scrum en 15% Scrum met elementen van Kanban of XP.
 
-![](RackMultipart20220531-1-u4txj3_html_4e22e730e412be83.png)
+![agile3](https://user-images.githubusercontent.com/71487939/171170546-7ee30681-6ca3-4a96-996b-42a0fda706a4.png)
 
 Daarnaast wordt in veel lijsten van top methodes
 # 3
@@ -167,7 +167,7 @@ Onder To do hangt het team al zijn taken van de huidige sprint en deze taken wor
 
 **De bijeenkomsten in Scrum:**
 
-![](RackMultipart20220531-1-u4txj3_html_1d6e5f9462b460a7.png)
+![agile4](https://user-images.githubusercontent.com/71487939/171170541-a096030d-facc-409c-817a-322b2f830223.png)
 
 Het scrum proces kent een vast ritme van vier bijeenkomsten die in dezelfde volgorde plaatsvinden. Die zijn als volgt;
 
@@ -273,7 +273,7 @@ De regels van XP kunnen onder vijf categorieën worden gezet.
 3. Maak veel kleine releases
 4. Splits het project in iteraties: Iteraties zijn een tot drie weken. Voortgang wordt per iteratie gemeten en de planning voor een iteratie wordt aan het begin daarvan samengesteld. Er mag niet worden gewerkt aan dingen die niet in de huidige iteratie zijn gepland.
 
-![](RackMultipart20220531-1-u4txj3_html_dbcdb061cadb8ce1.png)
+![agile5](https://user-images.githubusercontent.com/71487939/171170539-36228a3f-8e12-44d2-84b0-a000517240b4.png)
 
 **Management**
 
@@ -325,7 +325,7 @@ Als de medewerker de vraag beantwoord met nee dan wordt het gezien als verspilli
 
 # 14
 
-![](RackMultipart20220531-1-u4txj3_html_4437e9698d6c1d41.png)
+![agile6](https://user-images.githubusercontent.com/71487939/171170561-82e3c318-4088-4816-8091-58cd99aaa1a0.png)
 
 ### Bekend voorbeeld van lean
 
@@ -358,7 +358,7 @@ Scrum staat bekend om zijn korte sprint waarin in heel veel wordt afgestemd met 
 
 Scrum staat natuurlijk ook bekend om zijn retrospectives en planning. Hierin begeleidt de scrum master dit proces en faciliteert dit naar het team. In dit proces bepaalt de product owner de prioriteiten voor aankomende sprint. De prioriteiten worden meestal afgestemd op het product met de teams.
 
-Scrum is meer gericht op het product en het process met de klant. Gedurende dit proces wordt er altijd gekeken naar wat kan beter en wat ging er mis. Wat willen we behouden en wat doen we weg. ![](RackMultipart20220531-1-u4txj3_html_a315ace0b0ab7b55.png)
+Scrum is meer gericht op het product en het process met de klant. Gedurende dit proces wordt er altijd gekeken naar wat kan beter en wat ging er mis. Wat willen we behouden en wat doen we weg. ![agile7](https://user-images.githubusercontent.com/71487939/171170557-13dd16db-76c3-40d0-96a5-b346291aa387.png)
 
 Lean focust zich meer op het proces. Lean kijkt wat levert iets op voor de klant en wat niet. Wat niks oplevert noemen we waste en gooien we weg.
 
@@ -379,7 +379,7 @@ Crystal onderscheid zich van andere agile methodes doordat het niet één softwa
 Iedere methode of proces krijgt een eigen kleur, waarbij geldt dat hoe donkerder de kleur is hoe belangrijkere taken het team oppakt. Aan de groepen met donkere kleuren zullen dus ook meer mensen bij betrokken zijn dan bij de lichtere. De kleuren zijn ingedeeld op basis van kristallen. Voorbeelden ervan zijn Crystal Maroon, Crystal Red, Crystal Orange, Crystal Yellow en Crystal Clear van donker naar lichter.
 # 18
 
-![](RackMultipart20220531-1-u4txj3_html_a43f7793f45bbe2a.png)
+![agile8](https://user-images.githubusercontent.com/71487939/171170554-97e6caf4-c4e0-442c-887c-11acaae94fd2.png)
 
 De voordelen van het Crystal Agile methode:
 
