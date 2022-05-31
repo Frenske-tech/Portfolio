@@ -83,9 +83,10 @@ Overzicht bestellingen pagina
 
 **optie 2**
 
-![](RackMultipart20220531-1-d4herd_html_144fb92c08859337.png)
+![Wireframe](https://user-images.githubusercontent.com/71487939/171141829-d5373f77-6333-487a-b635-6d7f6319bd38.PNG)
 
-**optie 3**![](RackMultipart20220531-1-d4herd_html_a80a318eb6d33c0a.png)
+**optie 3**
+![Wireframe2](https://user-images.githubusercontent.com/71487939/171141812-fe56cc1d-fe37-4265-9437-f21a34ad5502.PNG)
 
 **de resultaten van het onderzoek**
 
