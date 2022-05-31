@@ -120,7 +120,9 @@ Bron: &#39;Agile Onderzoek&#39; hoofdstuk &#39;Welke Agile methode is geschikt v
 
 Not decided yet.
 
-## 1.6Eind producten ![](RackMultipart20220531-1-tyrxgh_html_64a30e8c8dfba7c0.png)
+## 1.6Eind producten 
+
+![PBS-versie2 drawio (1)](https://user-images.githubusercontent.com/71487939/171140824-463f10b9-5ea1-4ecf-8dde-690dd31007da.png)
 
 / **/ binnen het pbs heb ik meegedacht met de verschillende delen van de website die we nodig zouden gaan hebben en gekeken hoe we dit moesten noteren**
 
@@ -143,7 +145,7 @@ Voor het kopje software is hetzelfde van toepassing als bij documentatie. Aan de
 
 ## 1.7Architectuur
 
-![](RackMultipart20220531-1-tyrxgh_html_e2497d61d814905f.png)
+![v2 - Architectuur](https://user-images.githubusercontent.com/71487939/171140605-e438f971-022c-411d-8eff-b339711a0355.png)
 
 ## 1.8Technische keuzes
 
