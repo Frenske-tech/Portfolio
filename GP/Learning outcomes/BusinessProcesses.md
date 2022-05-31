@@ -48,19 +48,19 @@ with our app:
 
 This enables the user to pay for the meal whenever they like which especially in crowded restaurants can save a lot of time.
 
-This is making an order without the app ![](RackMultipart20220531-1-s23ixi_html_a2dfbe7d1f113244.png)
+This is making an order without the app ![BP1](https://user-images.githubusercontent.com/71487939/171173315-4d19cf40-74e5-4061-8067-f80bbd23d4e8.png)
 
 This is making an order with the app
 
-![](RackMultipart20220531-1-s23ixi_html_51dcb2cded31c558.png)
+![BP2](https://user-images.githubusercontent.com/71487939/171173314-d2ab1ee4-d1a8-421c-bbd9-33fb9353d969.png)
 
 It&#39;s much faster this way without having to wait for the waiter to show up.
 
-![](RackMultipart20220531-1-s23ixi_html_6f2c23e6b098f9cd.png)
+![BP3](https://user-images.githubusercontent.com/71487939/171173311-90c2e959-0f92-489d-a78a-2f8641378b81.png)
 
 This is for the stock without the app
 
-![](RackMultipart20220531-1-s23ixi_html_56091a58f1113719.png)
+![BP4](https://user-images.githubusercontent.com/71487939/171173306-1339d1eb-dc5b-4a42-95ec-093fe6615ae5.png)
 
 This is for the stock with the app
 
