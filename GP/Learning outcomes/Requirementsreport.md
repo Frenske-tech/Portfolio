@@ -14,7 +14,7 @@ Contents
 
 ## Introduction
 
-In this document I will be showing a few requirements and estimates of how long it would take to make it.
+In this document I will be showing the requirements we made as a group and some of the user stories/tasks I worked on
 
 ## Requirements
 
