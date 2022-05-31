@@ -58,19 +58,19 @@ Versie 2
 
 Huidige bestelling pagina
 
-![](RackMultipart20220531-1-d4herd_html_db2c2b105e51b66a.png)
+![huidige_bestelling_wf](https://user-images.githubusercontent.com/71487939/171141360-24cb65dc-e02d-444d-b173-be538fd14fb6.PNG)
 
 **dit was de eerste schets die we hadden gemaakt in het begin van het semester bedoeling was om alle informatie van de menupagina hier ook te laten zien met nog extra icoontje voor dieetwensen en allergieën.**
 
 Menu overzicht pagina:
 
-![](RackMultipart20220531-1-d4herd_html_7688c5f7d0703b53.png)
+![menu_wf](https://user-images.githubusercontent.com/71487939/171141378-cae78c13-4e6e-465f-af5f-abf81768e0fc.PNG)
 
 **de bedoeling was om het menu ook veel te laten lijken op de huidige bestellingen pagina waar we het ook belangrijk vonden om een klein menu aan de linkerkant te hebben voor sneller te kunnen navigeren en ook weer de dieetwensen die terug komen. Ook de dropdown buttons zodat als je bijvoorbeeld voorgerechten al hebt gehad dat je die makkelijk kan minimaliseren.**
 
 Overzicht bestellingen pagina
 
-![](RackMultipart20220531-1-d4herd_html_a32f4c4f16a640d5.png)
+![overzicht_bestellingen_wf](https://user-images.githubusercontent.com/71487939/171141394-2924b5b9-5790-4b59-b276-63f7ec09396f.PNG)
 
 **de overzicht bestellingen pagina dient als een soort van bon om de verschillende gemaakte bestellingen te zien en te controleren en zodra dat klaar is of digitaal betalen of het personeel een notificatie geven dat de gebruiker wilt betalen.**
 
