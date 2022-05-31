@@ -20,17 +20,17 @@ In this document I will be showing the requirements we made as a group and some 
 
 All the requirements we initially setup
 
-![](RackMultipart20220531-1-3igiqc_html_dabe9d6cdd95eded.png)
+![Userstoriesex](https://user-images.githubusercontent.com/71487939/171164208-7d01256f-c2ec-49c7-9a96-a63b18049d40.png)
 
 How it looks in the devops with estimated values but most of it went into the individual tasks
 
-![](RackMultipart20220531-1-3igiqc_html_703bc9e3519d797.png)
+![userstoriesdev1](https://user-images.githubusercontent.com/71487939/171164248-8dcda1bc-a360-41ce-8759-7ded1b4a4150.png)
 
 there are also some not user stories here which we could put hours into like portofolio, research and other things
 
-![](RackMultipart20220531-1-3igiqc_html_a0932bd02fcb14aa.png)
+![userstoriesdev2](https://user-images.githubusercontent.com/71487939/171164264-4166e839-1be4-44a4-9953-d3beaf24710c.png)
 
-![](RackMultipart20220531-1-3igiqc_html_39690bd62e537fe0.png)
+![userstoriesdev3](https://user-images.githubusercontent.com/71487939/171164271-81e72c8e-4429-4a13-b9f1-e5f70ed8b0ec.png)
 
 ## User stories
 
