@@ -221,10 +221,8 @@ De hoofd fases binnen het project zijn de planning en implementatie fases waar w
 
 | **Fases** | **Start datum** | **Eind datum** |
 | --- | --- | --- |
-|
 1. Planning en implementatie fase (spring 0)
  | 14/2/2022 | 7/3/2022 |
-|
 1. Sprint 1
  | 7/3/2022 | 28/3/2022 |
 | 3 Sprint 2 | 28/3/2022 | 19/4/2022 |
@@ -261,13 +259,10 @@ We hebben drie repos voor de drie softwarecomponenten van het project. Elke repo
 
 | **Risico** | **Preventie activiteiten** | **Mitigatie activiteiten** |
 | --- | --- | --- |
-|
 1. Groepslid is ziek
  | Eigen verantwoordelijkheid | Corona check doen voordat naar locatie komen. |
-|
 1. Docent is ziek
  | Is aan de docent | Vragen voorbereiden voor als de docent weer beter is. |
-|
 1. Treinen rijden niet
  | Op de NS site site kijken | Vanuit huis werken. |
 | 4 Treinen hebben vertraging | Op de NS site site kijken | Melden in WhatsApp groep |
