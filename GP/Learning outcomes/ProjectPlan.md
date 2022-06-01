@@ -195,9 +195,7 @@ Naast Vue.js zijn er twee andere grote javascript frameworks: React en Angular. 
  Woensdag 09:00 - 12:00_ |
 | Leon Bokhorst | _Leon_ | _Individueel begeleider_ | _Woensdag 09:00 - 12:00__Donderdag 09:00 - 12:00 en 13:00 - 16:00_ |
 | Jeroen Uittenbosch | _Jeroen_ | _Product owner_ |
- |
 | Sander Klijsen | _Sander_ | _Product owner_ |
- |
 
 ## 2.2Communicatie
 
