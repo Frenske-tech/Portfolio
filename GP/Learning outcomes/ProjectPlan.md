@@ -93,13 +93,9 @@ De mogelijkheden die dit project oplevert is een websocket systeem dat aan de ke
 | Digitaal Menu en Bestelsysteem | Betalingssysteem implementeren |
 | Work Tracking Systeem | Hosting |
 | Admin Dashboard |
- |
 | Centrale backend |
- |
 | Data storage |
- |
 | Bestaande betalingssystemen koppelen |
- |
 
 ## 1.4Strategie
 
