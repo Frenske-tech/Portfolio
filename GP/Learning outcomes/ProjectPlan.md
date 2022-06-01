@@ -17,7 +17,7 @@
 | v1 | 15-02-2022 | Justin van de Laar, Julian Janssen, Thisoban Mahalingam, Francois Haan, Bas Onrust, David Hellinga | Project plan opgezet en uitgewerkt. | afgerond |
 | v2 | 21-02-2022 | Zie bovenstaand | PBS toegevoegd, c4 model gemaakt, formatting bijgewerkt, risico&#39;s toegevoegd, basis pipelines opgezet | afgerond |
 | v3 | 07-03-2022 | Zie bovenstaand | PBS aangepast, |
-| v4 | 29-03-2022 | Redenen voor technische keuzes |
+| v4 | 29-03-2022 | Zie bovenstaand | Redenen voor technische keuzes |
 | V5 | 30-05-2022 | Francois Haan | Commentaar toegevoegd | afgerond |
 
 
