@@ -12,13 +12,13 @@ Francois haan
 
 Some of the user stories I worked on
 
-![](RackMultipart20220601-1-g6jopv_html_caa2b1058dc5b40b.png)
+![Userstory1](https://user-images.githubusercontent.com/71487939/171407957-d93be285-4932-4e43-9b78-5bff5a86e349.PNG)
 
 These all have individual tasks where I connected hours in order to keep track of my progress.
 
-![](RackMultipart20220601-1-g6jopv_html_f663ac21ab2d80fa.png)
+![Userstory2](https://user-images.githubusercontent.com/71487939/171407956-edc6fb85-25a2-42ac-8bfa-881962361db6.PNG)
 
-![](RackMultipart20220601-1-g6jopv_html_aa03c5ded90e5531.png)
+![Userstory3](https://user-images.githubusercontent.com/71487939/171407954-0155442c-d0ca-44bb-ac8e-b3e4d70fc1d6.PNG)
 
 # C-4 model
 
