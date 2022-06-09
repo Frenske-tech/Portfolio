@@ -24,4 +24,6 @@ These all have individual tasks where I connected hours in order to keep track o
 
 ![c1](https://user-images.githubusercontent.com/71487939/171403809-56057589-6721-43ed-886a-c4577c47e284.PNG)
 
+In this c4 you can see a reviewer/user needs to be logged in, in order to post a review reading posted reviews does not need the user to be logged in
+
 ![c2](https://user-images.githubusercontent.com/71487939/171403803-e83f07da-c4d0-40b2-b064-bcb12e0d1013.PNG)
