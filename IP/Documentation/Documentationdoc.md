@@ -30,3 +30,6 @@ In this c4 you can see a reviewer/user needs to be logged in, in order to post a
 
 Same as before a user needs to be logged in, in order to post a review, the review app communicates with the backend application which saves said review in a database
 
+![DomainModel](https://user-images.githubusercontent.com/71487939/173794743-88e5ea12-a883-4298-97aa-02398855d34e.PNG)
+Here is a domain model describing what the application would have looked like, a user posts a review which contains a game and the game has a totalreviewscore which takes the average user score
+
