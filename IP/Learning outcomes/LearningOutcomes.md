@@ -27,7 +27,7 @@ also a link to documentation file
 
 Adding a review and scoring it
 
-Gamename needs to be added by users themselves currently has no connection to a premade game I was planning on doing it but there were more urgent things I needed to do
+Gamename needs to be added by users themselves currently has no connection to a premade game I was planning on doing it but there were more urgent things I needed to do, looking back i should've done more especially the styling should've been done better and nicer. i did do some research about ux and a usability test for my group project which can be found [here](https://github.com/Frenske-tech/Portfolio/blob/main/GP/Documentation/Architectuurdocument.md)
 
 ![lo1](https://user-images.githubusercontent.com/71487939/173833211-7a6b7579-f937-438a-b978-f0f4afa6c7b6.png)
 
