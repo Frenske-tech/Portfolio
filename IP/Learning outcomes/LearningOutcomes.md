@@ -21,6 +21,10 @@
 
 For my individual project I chose to work with react and java spring boot, the main reason I chose to work with react in this project is because it has backing from facebook and a rather large community, I think it will be relevant longer then other frontend frameworks like vue. I chose to use java spring boot to learn a new language and it was recommended to me by my teacher.
 
+also a link to documentation file 
+
+[Documentation](https://github.com/Frenske-tech/Portfolio/blob/main/IP/Documentation/Documentationdoc.md)
+
 Adding a review and scoring it
 
 Gamename needs to be added by users themselves currently has no connection to a premade game I was planning on doing it but there were more urgent things I needed to do
