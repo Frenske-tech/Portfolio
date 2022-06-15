@@ -135,6 +135,8 @@ Project board here I have user stories im working on and under every user story 
 
 ![lo24](https://user-images.githubusercontent.com/71487939/173833217-e44085de-2819-45da-ab18-f60a9e6ef19b.png)
 
+Some more user stories and tasks within them [here](https://github.com/Frenske-tech/Portfolio/blob/main/IP/Documentation/Documentationdoc.md)
+
 I have a lot of problems keeping my concentration when I&#39;m working I was recommended a certain method by my teacher called pomodoro. Pomodoro breaks up your workday in 25 minutes of work and then a 5 minute break, this helped me keep my concentration and the 5 minute break helped me get a fresh look at things the website I used
 
 -https://pomofocus.io/
