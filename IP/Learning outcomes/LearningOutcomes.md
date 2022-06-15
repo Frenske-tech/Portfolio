@@ -141,6 +141,7 @@ I have a lot of problems keeping my concentration when I&#39;m working I was rec
 
 I also wrote a few researches where I used the dot framework and apa style for references
 The first about logging in with identity providers such as auth0 etc
+
 [IdentityProvider](https://github.com/Frenske-tech/Portfolio/blob/main/IP/Research/ResearchReportLogin.md)
 
 the second about User stories 
