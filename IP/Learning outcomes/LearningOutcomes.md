@@ -25,9 +25,9 @@ Adding a review and scoring it
 
 Gamename needs to be added by users themselves currently has no connection to a premade game I was planning on doing it but there were more urgent things I needed to do
 
-![](RackMultipart20220615-1-avd5ar_html_ba09f39628d6b120.png)
+![lo1](https://user-images.githubusercontent.com/71487939/173833211-7a6b7579-f937-438a-b978-f0f4afa6c7b6.png)
 
-![](RackMultipart20220615-1-avd5ar_html_49f0a8b4e3c225e9.png)
+![lo2](https://user-images.githubusercontent.com/71487939/173833208-fab7c6dd-7975-4ba7-bc8f-c9101915950f.png)
 
 A fairly straightforward list of the different reviews this could&#39;ve used more work and some user testing but I did both those things for the group project in de form of ux testing and a usability test. Which I will link to
 
@@ -35,9 +35,9 @@ A fairly straightforward list of the different reviews this could&#39;ve used mo
 
 I used Auth0 in order to let the user login to the application without needing to register.
 
-![](RackMultipart20220615-1-avd5ar_html_a7c9f71e30eb1b26.png)
+![lo3](https://user-images.githubusercontent.com/71487939/173833204-89830252-50f8-4c8c-940c-35d32f7bd8f2.png)
 
-![](RackMultipart20220615-1-avd5ar_html_41a83c678c047d76.png)
+![lo4](https://user-images.githubusercontent.com/71487939/173833203-25c1ccae-e5f3-4965-b3ad-7b6bf034b8c6.png)
 
 The picture isn&#39;t showing but that is on my account, on another account is does work
 
@@ -45,15 +45,15 @@ There is also the option to log out.
 
 To work with auth0 I used a tutorial [https://auth0.com/blog/spring-boot-authorization-tutorial-secure-an-api-java/](https://auth0.com/blog/spring-boot-authorization-tutorial-secure-an-api-java/), which already contained a frontend so I used that
 
-![](RackMultipart20220615-1-avd5ar_html_4c976c9b1b4299ba.png)
+![lo5](https://user-images.githubusercontent.com/71487939/173833200-be87b892-c8d7-4d45-a094-405b3aed770a.png)
 
 When you&#39;re logged in with correct roles u can add edit and delete items.
 
-![](RackMultipart20220615-1-avd5ar_html_fb707da75cf299d1.png)
+![lo6](https://user-images.githubusercontent.com/71487939/173833199-6d3e8b3c-8f21-4ad4-bb60-4f9cf3b9269c.png)
 
-![](RackMultipart20220615-1-avd5ar_html_1369c77f3796446b.png)
+![lo7](https://user-images.githubusercontent.com/71487939/173833191-88280588-2905-42a1-802e-f3db926a5125.png)
 
-![](RackMultipart20220615-1-avd5ar_html_d6fcc32acf8b1388.png)
+![lo8](https://user-images.githubusercontent.com/71487939/173833262-bd55bf7c-761c-410f-9a7a-0e65f379909d.png)
 
 This checks whether the user actually has the authority in the frontend this is also filtered when you&#39;re not logged in or without the permission buttons wont show up
 
@@ -62,23 +62,24 @@ This checks whether the user actually has the authority in the frontend this is 
 
 ### Unit testing
 
-![](RackMultipart20220615-1-avd5ar_html_65a99e11f170d685.png)
+![lo9](https://user-images.githubusercontent.com/71487939/173833257-6208d75e-33e4-43d6-8dba-fe968261374d.png)
 
 I added a few unit tests in order to test the functionality of my application I struggled a lot with running all the test for example in de delreview I used to deletebyid but for some reason that wouldn&#39;t work so I tested It like this.
 
 ### Integration testing
 
-![](RackMultipart20220615-1-avd5ar_html_d34c5cff1421adf5.png)
+![lo10](https://user-images.githubusercontent.com/71487939/173833256-ce36c85a-0ef5-45b5-a331-1f907df605ac.png)
 
-I&#39;ve got one measly integration test checking the controller. I have ran some other tests for example testing to post it ![](RackMultipart20220615-1-avd5ar_html_614a1ba926d52f78.png)
+I&#39;ve got one measly integration test checking the controller. I have ran some other tests for example testing to post it 
+![lo11](https://user-images.githubusercontent.com/71487939/173833254-95f7d860-0655-47be-ae72-262cfca02fa0.png)
 
 But for some weird reason it cant resolve the content object while friend with exactly the same dependencies etc don&#39;t have any problem
 
-![](RackMultipart20220615-1-avd5ar_html_2e8802eaa810d5ad.png)
+![lo12](https://user-images.githubusercontent.com/71487939/173833252-ec7f8f43-5066-41e3-acbc-8ae6c527890c.png)
 
 I also added sonar cloud in order to check bugs and vulnerabilities within my code as you can see there is most Definitely still work to do
 
-![](RackMultipart20220615-1-avd5ar_html_6f5b4ac8ff9e783b.png)
+![lo13](https://user-images.githubusercontent.com/71487939/173833249-db3ff36a-1e4f-40b3-afca-6d02badd907a.png)
 
 You can also see the review the bugs and see why it is an issue although in my case its about the tests im running so it isn&#39;t high priority
 
@@ -86,39 +87,39 @@ You can also see the review the bugs and see why it is an issue although in my c
 
 With github actions before a push or pull request on master I will run tests and when the tests check out it will push an image to docker hub
 
-![](RackMultipart20220615-1-avd5ar_html_c29f829da690630f.png)
+![lo14](https://user-images.githubusercontent.com/71487939/173833246-6aa48763-1814-4440-b63d-de74213e0a9e.png)
 
-![](RackMultipart20220615-1-avd5ar_html_272ef6acb4db0455.png)
+![lo15](https://user-images.githubusercontent.com/71487939/173833242-6faafd89-357e-403c-8f01-b88445dd0dae.png)
 
-![](RackMultipart20220615-1-avd5ar_html_befd6de11832de8d.png)
+![lo16](https://user-images.githubusercontent.com/71487939/173833239-15e78eb1-4d6c-49b2-a9f4-8a974c66f047.png)
 
 This was the first version for the backend
 
 And the dockerfile I used
 
-![](RackMultipart20220615-1-avd5ar_html_f060d0a20d35b657.png)
+![lo17](https://user-images.githubusercontent.com/71487939/173833236-0d582beb-9081-4fa9-888b-b7237aa42b5c.png)
 
-![](RackMultipart20220615-1-avd5ar_html_8ec3fe361bc874.png)
+![lo18](https://user-images.githubusercontent.com/71487939/173833235-b76ab627-6bf4-4576-b81c-76184642c71e.png)
 
 Later I added in Sonarcloud as well to perform static code analysis and discover potential weak point in my code which I wrote about in the previous chapter
 
-![](RackMultipart20220615-1-avd5ar_html_f2270f62456a96aa.png)
+![lo19](https://user-images.githubusercontent.com/71487939/173833229-fe63c739-0019-4235-87d0-05b269540360.png)
 
 All tasks completed and a new image was pushed to docker
 
 I also did this for the frontend in order to be able to run it together this also pushes an image to another docker repository
 
-![](RackMultipart20220615-1-avd5ar_html_24402bceebab5b90.png)
+![lo20](https://user-images.githubusercontent.com/71487939/173833227-9c580234-6e78-4bf9-99b5-5831c0777f05.png)
 
 And the dockerfile
 
-![](RackMultipart20220615-1-avd5ar_html_71f79d3b4ce10911.png)
+![lo21](https://user-images.githubusercontent.com/71487939/173833225-fa52691a-cbdf-437e-809b-0259ce64d75e.png)
 
-![](RackMultipart20220615-1-avd5ar_html_dcfc38236aecaec2.png)
+![lo22](https://user-images.githubusercontent.com/71487939/173833222-47cb0900-103a-41e6-ae83-c2bd5e497fa4.png)
 
 All tasks completed and an image is pushed.
 
-![](RackMultipart20220615-1-avd5ar_html_3b2114c5ed161504.png)
+![lo23](https://user-images.githubusercontent.com/71487939/173833220-cca2bb51-a843-4336-bb57-5c8e2d12dc65.png)
 
 Both running on different ports I did have some issues getting them to run together but after I added the -p tag in the console it worked
 
@@ -128,14 +129,14 @@ I uploaded every research I made unto github in the portfolio and in its own pub
 
 Project board here I have user stories im working on and under every user story there&#39;s different tasks I need to finish to split up the user story even more. I started the semester really not using my jira board but gradually towards the end of the year is started using it more and more helping me keep track of my progress and my todos
 
-![](RackMultipart20220615-1-avd5ar_html_d6dff085225a2471.png)
+![lo24](https://user-images.githubusercontent.com/71487939/173833217-e44085de-2819-45da-ab18-f60a9e6ef19b.png)
 
 I have a lot of problems keeping my concentration when I&#39;m working I was recommended a certain method by my teacher called pomodoro. Pomodoro breaks up your workday in 25 minutes of work and then a 5 minute break, this helped me keep my concentration and the 5 minute break helped me get a fresh look at things the website I used
 
 -https://pomofocus.io/
 
-![](RackMultipart20220615-1-avd5ar_html_847c7ec124e1be2f.png)
+![lo25](https://user-images.githubusercontent.com/71487939/173833214-a7b24cde-572f-4950-a510-db173ee3070e.png)
 
-![](RackMultipart20220615-1-avd5ar_html_e8ce63b1c70315d3.png)
+![lo26](https://user-images.githubusercontent.com/71487939/173833212-244c7175-7d79-4f50-8212-62b6da3d6d75.png)
 
 I also wrote a few researches where I used the dot framework and apa style for references
