@@ -12,10 +12,8 @@
 
 [8. You act in a professional manner during software development and learning. 9](#_Toc105073458)
 
-# Learning outcomes
 
-1.
-## You design and build user-friendly, full-stack web applications.
+## 1. You design and build user-friendly, full-stack web applications.
 
 For my individual project I chose to work with react and java spring boot, the main reason I chose to work with react in this project is because it has backing from facebook and a rather large community, I think it will be relevant longer then other frontend frameworks like vue. I chose to use java spring boot to learn a new language and it was recommended to me by my teacher.
 
@@ -63,8 +61,8 @@ When you&#39;re logged in with correct roles u can add edit and delete items.
 
 This checks whether the user actually has the authority in the frontend this is also filtered when you&#39;re not logged in or without the permission buttons wont show up
 
-1.
-## You use software tooling and methodology that continuously monitors and improve the software quality during software development.
+
+## 2. You use software tooling and methodology that continuously monitors and improve the software quality during software development.
 
 ### Unit testing
 
