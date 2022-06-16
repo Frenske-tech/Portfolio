@@ -78,7 +78,7 @@ I added a few unit tests in order to test the functionality of my application I 
 
 ![lo10](https://user-images.githubusercontent.com/71487939/173833256-ce36c85a-0ef5-45b5-a331-1f907df605ac.png)
 
-I&#39;ve got one measly integration test checking the controller. I have ran some other tests for example testing to post it 
+I&#39;ve got one  integration test checking the controller to retrieve all reviews. I have ran some other tests for example testing to post it 
 ![lo11](https://user-images.githubusercontent.com/71487939/173833254-95f7d860-0655-47be-ae72-262cfca02fa0.png)
 
 But for some weird reason it cant resolve the content object while friend with exactly the same dependencies etc don&#39;t have any problem
