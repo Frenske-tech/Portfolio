@@ -4,7 +4,7 @@
 
 # Learning outcomes
 
-[1.You design and build user-friendly, full-stack web applications. 3](##1. You design and build user-friendly, full-stack web applications.)
+[1.You design and build user-friendly, full-stack web applications. 3](#1. You design and build user-friendly, full-stack web applications.)
 
 [2. You use software tooling and methodology that continuously monitors and improve the software quality during software development. 5]
 
