@@ -106,7 +106,7 @@ this is my workflow for my [backend](https://github.com/Frenske-tech/sem3Backend
 
 This was the first version for the backend
 
-And the dockerfile I used
+And the [Dockerfile](https://github.com/Frenske-tech/sem3Backend/blob/main/review/Dockerfile) I used
 
 ![lo17](https://user-images.githubusercontent.com/71487939/173833236-0d582beb-9081-4fa9-888b-b7237aa42b5c.png)
 
@@ -122,7 +122,7 @@ I also did this for the frontend in order to be able to run it together this als
 
 ![lo20](https://user-images.githubusercontent.com/71487939/173833227-9c580234-6e78-4bf9-99b5-5831c0777f05.png)
 
-And the dockerfile
+And the [Dockerfile](https://github.com/Frenske-tech/sem3Frontend/blob/main/sem3frontend/Dockerfile)
 
 ![lo21](https://user-images.githubusercontent.com/71487939/173833225-fa52691a-cbdf-437e-809b-0259ce64d75e.png)
 
