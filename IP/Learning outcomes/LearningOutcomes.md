@@ -96,6 +96,7 @@ You can also see the review the bugs and see why it is an issue although in my c
 # 4. You design and implement a (semi)automated software release process that matches the needs of the project context.
 
 With github actions before a push or pull request on master I will run tests and when the tests check out it will push an image to docker hub
+this is my workflow for my backend: [backend](https://github.com/Frenske-tech/sem3Backend/blob/main/.github/workflows/maven.yml) and [frontend](https://github.com/Frenske-tech/sem3Frontend/blob/main/.github/workflows/react.yml)
 
 ![lo14](https://user-images.githubusercontent.com/71487939/173833246-6aa48763-1814-4440-b63d-de74213e0a9e.png)
 
