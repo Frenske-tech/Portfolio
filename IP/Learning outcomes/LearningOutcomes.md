@@ -39,7 +39,7 @@ Gamename needs to be added by users themselves currently has no connection to a 
 
 A fairly straightforward list of the different reviews this could&#39;ve used more work and some user testing but I did both those things for the group project in de form of ux testing and a usability test. Which I will link to
 
-## Auth0
+# Auth0
 
 I used Auth0 in order to let the user login to the application without needing to register.
 
