@@ -9,7 +9,7 @@
 
 [2. You use software tooling and methodology that continuously monitors and improve the software quality during software development.](#2.-You-use-software-tooling-and-methodology-that-continuously-monitors-and-improve-the-software-quality-during-software-development.)
 
-[4. You design and implement a (semi)automated software release process that matches the needs of the project context. 8]
+[4. You design and implement a (semi)automated software release process that matches the needs of the project context.](#4.-You-design-and-implement-a-(semi)automated-software-release-process-that-matches-the-needs-of-the-project-context.)
 
 [8. You act in a professional manner during software development and learning. 9]
 
