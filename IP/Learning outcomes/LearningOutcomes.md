@@ -4,7 +4,7 @@
 
 # Learning outcomes
 
-[1.You design and build user-friendly, full-stack web applications. 3](#1. You design and build user-friendly, full-stack web applications.)
+[1.You design and build user-friendly, full-stack web applications.](#1. You design and build user-friendly, full-stack web applications.)
 
 [Link to Header](#the-header)
 
@@ -14,7 +14,6 @@
 
 [8. You act in a professional manner during software development and learning. 9]
 
-## The Header
 
 ## 1. You design and build user-friendly, full-stack web applications.
 
