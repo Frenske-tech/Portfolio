@@ -4,13 +4,13 @@
 
 # Learning outcomes
 
-[1.You design and build user-friendly, full-stack web applications. 3](#_Toc105073454)
+[1.You design and build user-friendly, full-stack web applications. 3]
 
-[2. You use software tooling and methodology that continuously monitors and improve the software quality during software development. 5](#_Toc105073456)
+[2. You use software tooling and methodology that continuously monitors and improve the software quality during software development. 5]
 
-[4. You design and implement a (semi)automated software release process that matches the needs of the project context. 8](#_Toc105073457)
+[4. You design and implement a (semi)automated software release process that matches the needs of the project context. 8]
 
-[8. You act in a professional manner during software development and learning. 9](#_Toc105073458)
+[8. You act in a professional manner during software development and learning. 9]
 
 
 ## 1. You design and build user-friendly, full-stack web applications.
