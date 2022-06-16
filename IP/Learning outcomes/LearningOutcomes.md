@@ -155,10 +155,10 @@ I have a lot of problems keeping my concentration when I&#39;m working I was rec
 # Research
 
 I also wrote a few researches where I used the dot framework and apa style for references
-The first about logging in with identity providers such as auth0 etc
+The first about logging in with identity providers such as auth0. I made this because it was important for my application to be able to login.
 
 [IdentityProvider](https://github.com/Frenske-tech/Portfolio/blob/main/IP/Research/ResearchReportLogin.md)
 
-the second about User stories 
+the second about User stories. I made this because at the beginning of the semester i had some trouble creating/writing relevant user stories valuable to the project.
 
 [User story](https://github.com/Frenske-tech/Portfolio/blob/main/IP/Research/UserStoryResearch.md)
