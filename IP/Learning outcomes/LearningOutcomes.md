@@ -65,11 +65,12 @@ This checks whether the user actually has the authority in the frontend this is 
 
 ## 2. You use software tooling and methodology that continuously monitors and improve the software quality during software development.
 
+A link to the files where the tests are located [here](https://github.com/Frenske-tech/sem3Backend/tree/main/review/src/test/java/com/example/review)
+
 ### Unit testing
 
 ![lo9](https://user-images.githubusercontent.com/71487939/173833257-6208d75e-33e4-43d6-8dba-fe968261374d.png)
 
-I added a few unit tests in order to test the functionality of my application I struggled a lot with running all the test for example in de delreview I used to deletebyid but for some reason that wouldn&#39;t work so I tested It like this.
 
 ### Integration testing
 
