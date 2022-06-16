@@ -11,7 +11,7 @@
 
 [4. You design and implement a (semi)automated software release process that matches the needs of the project context.](#4.-You-design-and-implement-a-(semi)automated-software-release-process-that-matches-the-needs-of-the-project-context.)
 
-[8. You act in a professional manner during software development and learning. 9]
+[8. You act in a professional manner during software development and learning.](#8.-You-act-in-a-professional-manner-during-software-development-and-learning.)
 
 
 ## 1. You design and build user-friendly, full-stack web applications.
