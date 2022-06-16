@@ -85,6 +85,10 @@ But for some weird reason it cant resolve the content object while a friend with
 
 ![lo12](https://user-images.githubusercontent.com/71487939/173833252-ec7f8f43-5066-41e3-acbc-8ae6c527890c.png)
 
+After the help of a student i managed to get it working 
+
+![test2](https://user-images.githubusercontent.com/71487939/174022280-04f84d61-2b78-4146-b28a-55f23b86ac91.PNG)
+
 I also added sonar cloud in order to check bugs and vulnerabilities within my code as you can see there is most Definitely still work to do
 
 ![lo13](https://user-images.githubusercontent.com/71487939/173833249-db3ff36a-1e4f-40b3-afca-6d02badd907a.png)
