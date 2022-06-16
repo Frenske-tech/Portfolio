@@ -27,6 +27,10 @@ also a link to documentation file
 
 Adding a review and scoring it
 
+and here the controller controlling it
+
+![Capture](https://user-images.githubusercontent.com/71487939/174017313-19fa07ef-842a-491b-9c82-fc4a109464e7.PNG)
+
 Gamename needs to be added by users themselves currently has no connection to a premade game I was planning on doing it but there were more urgent things I needed to do, looking back i should've done more especially the styling should've been done better and nicer. i did do some research about ux and a usability test for my group project which can be found [here](https://github.com/Frenske-tech/Portfolio/blob/main/GP/Documentation/Architectuurdocument.md) and [here](https://github.com/Frenske-tech/Portfolio/blob/main/GP/Learning%20outcomes/UsabilityTest.md)
 
 ![lo1](https://user-images.githubusercontent.com/71487939/173833211-7a6b7579-f937-438a-b978-f0f4afa6c7b6.png)
