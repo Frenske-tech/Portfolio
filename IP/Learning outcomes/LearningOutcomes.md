@@ -81,7 +81,7 @@ I added a few unit tests in order to test the functionality of my application I 
 I&#39;ve got one  integration test checking the controller to retrieve all reviews. I have ran some other tests for example testing to post it 
 ![lo11](https://user-images.githubusercontent.com/71487939/173833254-95f7d860-0655-47be-ae72-262cfca02fa0.png)
 
-But for some weird reason it cant resolve the content object while friend with exactly the same dependencies etc don&#39;t have any problem
+But for some weird reason it cant resolve the content object while a friend with exactly the same dependencies etc doesnt have any problem
 
 ![lo12](https://user-images.githubusercontent.com/71487939/173833252-ec7f8f43-5066-41e3-acbc-8ae6c527890c.png)
 
