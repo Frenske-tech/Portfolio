@@ -2,7 +2,7 @@
 
 # Inhoud
 
-[Learning outcomes 3](#_Toc105073453)
+# Learning outcomes
 
 [1.You design and build user-friendly, full-stack web applications. 3](#_Toc105073454)
 
