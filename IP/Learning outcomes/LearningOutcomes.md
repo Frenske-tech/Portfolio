@@ -92,6 +92,7 @@ After the help of a student i managed to get it working
 ![test2](https://user-images.githubusercontent.com/71487939/174022280-04f84d61-2b78-4146-b28a-55f23b86ac91.PNG)
 
 I also added sonar cloud in order to check bugs and vulnerabilities within my code as you can see there is most Definitely still work to do
+
 I did this very late in the project in the future i will be implementing this earlier to ensure there are as little bugs and problems as possible.
 
 ![lo13](https://user-images.githubusercontent.com/71487939/173833249-db3ff36a-1e4f-40b3-afca-6d02badd907a.png)
@@ -100,6 +101,7 @@ You can also see the review the bugs and see why it is an issue although in my c
 
 # 4. You design and implement a (semi)automated software release process that matches the needs of the project context.
 
+I implemented cicd withing my project to be able to push it to docker in order to more easily share the project and run test to check wether or not all the core functions still work, i will however in the future implement testing and the cicd earlier to ensure it will be used efficiently. i chose to push it to docker instead of deploying it to a website because of the time restraint i experienced towards the end of the semester.
 
 With github actions before a push or pull request on master I will run tests and when the tests check out it will push an image to docker hub
 this is my workflow for my [backend](https://github.com/Frenske-tech/sem3Backend/blob/main/.github/workflows/maven.yml) and [frontend](https://github.com/Frenske-tech/sem3Frontend/blob/main/.github/workflows/react.yml)
