@@ -16,7 +16,7 @@
 
 ## 1. You design and build user-friendly, full-stack web applications.
 
-For my individual project I chose to work with react and java spring boot, the main reason I chose to work with react in this project is because it has backing from facebook and a rather large community, I think it will be relevant longer then other frontend frameworks like vue. I chose to use java spring boot to learn a new language and it was recommended to me by my teacher.
+For my individual project I chose to work with react and java spring boot, the main reason I chose to work with react in this project is because it has backing from facebook and a rather large community, I think it will be relevant longer then other frontend frameworks like vue. I chose to use java spring boot to learn a new language and it was recommended to me by my teacher. i used to use mysql locally to run the application, but this would to be hard to run with docker so i switched to a h2 database. in the full version of this application i wouldnt have used an in memory database i would have had to search for an alternative.
 
 also a link to documentation file 
 
@@ -76,7 +76,7 @@ I used unit tests to ensure all my methods work like i expect them to. and makin
 
 ### Integration testing
 
-I use integration tests to make sure the controller does what is needs to for example returning all the reviews or posting a single review. to test how the different layers will work together.
+With integration tests the entire process is tested, i did this with mockmvc. mockmvc allows you to send a fake http request and see how the controller behaves. i used these to check how all the layers worked together and to see if the most important functions would work.
 
 ![lo10](https://user-images.githubusercontent.com/71487939/173833256-ce36c85a-0ef5-45b5-a331-1f907df605ac.png)
 
@@ -98,6 +98,9 @@ I did this very late in the project in the future i will be implementing this ea
 ![lo13](https://user-images.githubusercontent.com/71487939/173833249-db3ff36a-1e4f-40b3-afca-6d02badd907a.png)
 
 You can also see the review the bugs and see why it is an issue although in my case its about the tests im running so it isn&#39;t high priority
+
+### Database
+i used h2 database to run the application and also for the testing, because its and in memory database, the database won't get filled with all of the test data i dont want any where near the application. also because the h2 database is always empty on startup the tests run faster.
 
 # 4. You design and implement a (semi)automated software release process that matches the needs of the project context.
 
