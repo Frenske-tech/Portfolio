@@ -22,7 +22,7 @@ also a link to documentation file
 
 [Documentation](https://github.com/Frenske-tech/Portfolio/blob/main/IP/Documentation/Documentationdoc.md)
 
-Adding a review and scoring it
+Adding a review and scoring it. looking back at the project i should've done more about the look of the websites and i think websockets could've been good for my project.
 
 Gamename needs to be added by users themselves currently has no connection to a premade game I was planning on doing it but there were more urgent things I needed to do, looking back i should've done more especially the styling should've been done better and nicer. i did do some research about ux and a usability test for my group project which can be found [here](https://github.com/Frenske-tech/Portfolio/blob/main/GP/Documentation/Architectuurdocument.md) and [here](https://github.com/Frenske-tech/Portfolio/blob/main/GP/Learning%20outcomes/UsabilityTest.md) and the [frontend](https://github.com/Frenske-tech/sem3Frontend) and [backend](https://github.com/Frenske-tech/sem3Backend) repo's
 
