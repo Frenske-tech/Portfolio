@@ -38,7 +38,7 @@ here is the controller which is being called
 
 # Auth0
 
-I used Auth0 in order to let the user login to the application without needing to register.
+I used Auth0 in order to let the user login to the application without needing to register. i worked on this because it is very important for my application to use oauth is order to let the user post reviews.
 
 ![lo3](https://user-images.githubusercontent.com/71487939/173833204-89830252-50f8-4c8c-940c-35d32f7bd8f2.png)
 
@@ -69,10 +69,14 @@ A link to the files where the tests are located [here](https://github.com/Frensk
 
 ### Unit testing
 
+I used unit tests to ensure all my methods work like i expect them to. and making changes the unit test that run when i push to main and run the cicd ensures the core functionlities always work.
+
 ![lo9](https://user-images.githubusercontent.com/71487939/173833257-6208d75e-33e4-43d6-8dba-fe968261374d.png)
 
 
 ### Integration testing
+
+I use integration tests to make sure the controller does what is needs to for example returning all the reviews or posting a single review. to test how the different layers will work together.
 
 ![lo10](https://user-images.githubusercontent.com/71487939/173833256-ce36c85a-0ef5-45b5-a331-1f907df605ac.png)
 
@@ -88,12 +92,14 @@ After the help of a student i managed to get it working
 ![test2](https://user-images.githubusercontent.com/71487939/174022280-04f84d61-2b78-4146-b28a-55f23b86ac91.PNG)
 
 I also added sonar cloud in order to check bugs and vulnerabilities within my code as you can see there is most Definitely still work to do
+I did this very late in the project in the future i will be implementing this earlier to ensure there are as little bugs and problems as possible.
 
 ![lo13](https://user-images.githubusercontent.com/71487939/173833249-db3ff36a-1e4f-40b3-afca-6d02badd907a.png)
 
 You can also see the review the bugs and see why it is an issue although in my case its about the tests im running so it isn&#39;t high priority
 
 # 4. You design and implement a (semi)automated software release process that matches the needs of the project context.
+
 
 With github actions before a push or pull request on master I will run tests and when the tests check out it will push an image to docker hub
 this is my workflow for my [backend](https://github.com/Frenske-tech/sem3Backend/blob/main/.github/workflows/maven.yml) and [frontend](https://github.com/Frenske-tech/sem3Frontend/blob/main/.github/workflows/react.yml)
