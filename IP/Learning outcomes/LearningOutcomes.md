@@ -143,6 +143,10 @@ All tasks completed and an image is pushed.
 
 ![lo23](https://user-images.githubusercontent.com/71487939/173833220-cca2bb51-a843-4336-bb57-5c8e2d12dc65.png)
 
+the repos in dockerhub
+
+![Knipsel](https://user-images.githubusercontent.com/71487939/174252242-970b113e-8353-41a7-9d16-7f45d035784d.PNG)
+
 Both running on different ports I did have some issues getting them to run together but after I added the -p tag to the docker run command it worked and the frontend and backend communicated 
 
 ## 8. You act in a professional manner during software development and learning.
