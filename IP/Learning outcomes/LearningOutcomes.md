@@ -30,6 +30,10 @@ Gamename needs to be added by users themselves currently has no connection to a 
 
 ![lo2](https://user-images.githubusercontent.com/71487939/173833208-fab7c6dd-7975-4ba7-bc8f-c9101915950f.png)
 
+You need to logged in in order to post a review
+
+![Knipsel](https://user-images.githubusercontent.com/71487939/174431426-564f7cba-af4f-4e31-a4ef-8e2f9765545c.PNG)
+
 A fairly straightforward list of the different reviews this could&#39;ve used more work and some user testing but I did both those things for the group project in de form of ux testing and a usability test. Which I will link to [here](https://github.com/Frenske-tech/Portfolio/blob/main/GP/Documentation/Architectuurdocument.md) and [here](https://github.com/Frenske-tech/Portfolio/blob/main/GP/Learning%20outcomes/UsabilityTest.md)
 
 here is the controller which is being called
