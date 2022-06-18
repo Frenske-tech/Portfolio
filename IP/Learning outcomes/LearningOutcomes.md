@@ -90,14 +90,10 @@ With integration tests the entire process is tested, i did this with mockmvc. mo
 
 ![lo10](https://user-images.githubusercontent.com/71487939/173833256-ce36c85a-0ef5-45b5-a331-1f907df605ac.png)
 
-I&#39;ve got one  integration test checking the controller to retrieve all reviews. I have ran some other tests for example testing to post it 
+I&#39;ve got one  integration test checking the controller to retrieve all reviews. 
 ![lo11](https://user-images.githubusercontent.com/71487939/173833254-95f7d860-0655-47be-ae72-262cfca02fa0.png)
 
-But for some weird reason it cant resolve the content object while a friend with exactly the same dependencies etc doesnt have any problem
-
-![lo12](https://user-images.githubusercontent.com/71487939/173833252-ec7f8f43-5066-41e3-acbc-8ae6c527890c.png)
-
-After the help of a student i managed to get it working 
+The integration test for creating the review i worked out later with help of a student.
 
 ![test2](https://user-images.githubusercontent.com/71487939/174022280-04f84d61-2b78-4146-b28a-55f23b86ac91.PNG)
 
