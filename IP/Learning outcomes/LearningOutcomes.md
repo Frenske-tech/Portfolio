@@ -18,6 +18,10 @@
 
 For my individual project I chose to work with react and java spring boot, the main reason I chose to work with react in this project is because it has backing from facebook and a rather large community, I think it will be relevant longer then other frontend frameworks like vue. I chose to use java spring boot to learn a new language and it was recommended to me by my teacher. i used to use mysql locally to run the application, but this would to be hard to run with docker so i switched to a h2 database. in the full version of this application i wouldnt have used an in memory database i would have had to search for an alternative.
 
+Looking back at the semester i would use react again, in the group project i worked with vue and i have to say my experiences with react have been more postive then the ones i have had with vue. The major problem i have with vue is probably because we used vue3 for our project where things like bootstrap for vue werent even available for vue3 so we had to resort to regular bootstrap.
+
+Within my individual application i used material ui for textfields and the rating however i should've spent more time with the styling of the application in particular i think my application certaintly isn't a looker at the moment.
+
 also a link to documentation file 
 
 [Documentation](https://github.com/Frenske-tech/Portfolio/blob/main/IP/Documentation/Documentationdoc.md)
@@ -25,6 +29,8 @@ also a link to documentation file
 Adding a review and scoring it. looking back at the project i should've done more about the look of the websites and i think websockets could've been good for my project.
 
 Gamename needs to be added by users themselves currently has no connection to a premade game I was planning on doing it but there were more urgent things I needed to do, looking back i should've done more especially the styling should've been done better and nicer. i did do some research about ux and a usability test for my group project which can be found [here](https://github.com/Frenske-tech/Portfolio/blob/main/GP/Documentation/Architectuurdocument.md) and [here](https://github.com/Frenske-tech/Portfolio/blob/main/GP/Learning%20outcomes/UsabilityTest.md) and the [frontend](https://github.com/Frenske-tech/sem3Frontend) and [backend](https://github.com/Frenske-tech/sem3Backend) repo's
+
+In my app you can review games/ movies give them a star rating, some explanation for why and  the username gets passed so everyone can see who posted it.
 
 ![lo1](https://user-images.githubusercontent.com/71487939/173833211-7a6b7579-f937-438a-b978-f0f4afa6c7b6.png)
 
