@@ -103,6 +103,8 @@ I did this very late in the project in the future i will be implementing this ea
 
 ![lo13](https://user-images.githubusercontent.com/71487939/173833249-db3ff36a-1e4f-40b3-afca-6d02badd907a.png)
 
+![sc](https://user-images.githubusercontent.com/71487939/174450489-07fc1c70-9e30-450c-98cf-86693ab66211.PNG)
+
 You can also see the review the bugs and see why it is an issue although in my case its about the tests im running so it isn&#39;t high priority
 
 ### Database
