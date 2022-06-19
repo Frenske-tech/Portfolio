@@ -16,7 +16,11 @@
 
 ## 1. You design and build user-friendly, full-stack web applications.
 
-For my individual project I chose to work with react and java spring boot, the main reason I chose to work with react in this project is because it has backing from facebook and a rather large community, I think it will be relevant longer then other frontend frameworks like vue. I chose to use java spring boot to learn a new language and it was recommended to me by my teacher. i used to use mysql locally to run the application, but this would to be hard to run with docker so i switched to a h2 database. in the full version of this application i wouldnt have used an in memory database i would have had to search for an alternative.
+For my individual project I chose to work with react and java spring boot, the main reason I chose to work with react in this project is because it has backing from facebook and a rather large community, I think it will be relevant longer then other frontend frameworks like vue. I chose to use java spring boot for my project because i'm already pretty familiar with c# having used it for a few semesters now, so i thought it would be a good idea to try something new something that most likely sooner or later i would've worked with eventually. Java is also a popular language and provides a clean and efficient oop based platform.
+
+Looking back i really enjoyed working with java spring boot over something im more used to like c# mostly because i found it to be a good way of setting up projects. so i would most definitly use spring boot again in future semesters.
+
+i used to use mysql locally to run the application, but this would to be hard to run with docker so i switched to a h2 database. in the full version of this application i wouldnt have used an in memory database i would have had to search for an alternative.
 
 Looking back at the semester i would use react again, in the group project i worked with vue and i have to say my experiences with react have been more postive then the ones i have had with vue. The major problem i have with vue is probably because we used vue3 for our project where things like bootstrap for vue werent even available for vue3 so we had to resort to regular bootstrap.
 
