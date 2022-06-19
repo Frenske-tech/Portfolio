@@ -101,6 +101,10 @@ The integration test for creating the review i worked out later with help of a s
 
 ![test2](https://user-images.githubusercontent.com/71487939/174022280-04f84d61-2b78-4146-b28a-55f23b86ac91.PNG)
 
+The difference between unit testing and integration testing:
+Unit testing is focused on testing a single function whereas integration testing is focused on combining functions correctly.
+
+
 I also added sonar cloud in order to check bugs and vulnerabilities within my code as you can see there is most Definitely still work to do
 
 I did this very late in the project in the future i will be implementing this earlier to ensure there are as little bugs and problems as possible.
